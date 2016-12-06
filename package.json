@@ -6,6 +6,7 @@
   "author": "Gal Schlezinger",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^2.0.0",
     "node-telegram-bot-api": "^0.24.0"
   }
 }
