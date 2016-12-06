@@ -1,0 +1,11 @@
+{
+  "name": "sanw-bot",
+  "version": "1.0.0",
+  "description": "Such A Nasty Woman Telegram Bot",
+  "main": "index.js",
+  "author": "Gal Schlezinger",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.24.0"
+  }
+}
